@@ -76,15 +76,6 @@ The project includes multiple visualization types:
   - pymc
   - arviz
 
-## How to Run
-1. Ensure all required libraries are installed
-2. Run the individual city analysis scripts:
-   ```
-   python Bergen.py
-   python Kristiansand.py
-   python "Tromsø.py"
-   ```
-3. Review generated visualizations in the project root directory
 
 ## References
 - Meteorologisk institutt for weather data
